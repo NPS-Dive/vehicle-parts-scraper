@@ -1,0 +1,18 @@
+# Browser Profiles (NEVER COMMIT)
+firefox_profile_copy/
+chromium_profile_copy/
+*.sqlite
+*.db
+storage/
+cache/
+
+# Output & Logs
+output/
+backups/
+logs/
+__pycache__/
+*.pyc
+
+# Python
+venv/
+.env
