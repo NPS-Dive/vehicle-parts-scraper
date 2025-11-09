@@ -1,0 +1,779 @@
+2025-11-08 12:12:29,202 - INFO - Loaded: https://ikcopart.com/shop/?
+2025-11-08 12:12:35,295 - INFO - Total pages: 1
+2025-11-08 12:12:35,305 - INFO - Page 1: 12 parts found
+2025-11-08 12:12:36,491 - INFO - Saved 12 rows to output\ikcopart_2025-11-08.csv
+2025-11-08 12:12:36,492 - INFO - Completed: 12 parts scraped
+2025-11-08 12:15:09,153 - INFO - Loaded page 1: https://ikcopart.com/shop/?
+2025-11-08 12:15:15,293 - INFO - Detected total pages: 86
+2025-11-08 12:15:15,293 - INFO - Will scrape 86 page(s)
+2025-11-08 12:15:15,303 - INFO - Page 1: 12 titles, 13 prices
+2025-11-08 12:15:17,819 - INFO - Loaded page 2: https://ikcopart.com/shop/?paged=2
+2025-11-08 12:15:23,912 - INFO - Page 2: 12 titles, 13 prices
+2025-11-08 12:15:28,099 - INFO - Loaded page 3: https://ikcopart.com/shop/?paged=3
+2025-11-08 12:15:34,180 - INFO - Page 3: 12 titles, 13 prices
+2025-11-08 12:15:38,433 - INFO - Loaded page 4: https://ikcopart.com/shop/?paged=4
+2025-11-08 12:15:44,531 - INFO - Page 4: 12 titles, 13 prices
+2025-11-08 12:15:48,752 - INFO - Loaded page 5: https://ikcopart.com/shop/?paged=5
+2025-11-08 12:15:54,836 - INFO - Page 5: 12 titles, 13 prices
+2025-11-08 12:15:59,100 - INFO - Loaded page 6: https://ikcopart.com/shop/?paged=6
+2025-11-08 12:16:05,198 - INFO - Page 6: 12 titles, 13 prices
+2025-11-08 12:16:09,321 - INFO - Loaded page 7: https://ikcopart.com/shop/?paged=7
+2025-11-08 12:16:15,426 - INFO - Page 7: 12 titles, 13 prices
+2025-11-08 12:16:19,532 - INFO - Loaded page 8: https://ikcopart.com/shop/?paged=8
+2025-11-08 12:16:25,607 - INFO - Page 8: 12 titles, 13 prices
+2025-11-08 12:16:29,655 - INFO - Loaded page 9: https://ikcopart.com/shop/?paged=9
+2025-11-08 12:16:35,737 - INFO - Page 9: 12 titles, 13 prices
+2025-11-08 12:16:40,114 - INFO - Loaded page 10: https://ikcopart.com/shop/?paged=10
+2025-11-08 12:16:46,215 - INFO - Page 10: 12 titles, 13 prices
+2025-11-08 12:16:50,515 - INFO - Loaded page 11: https://ikcopart.com/shop/?paged=11
+2025-11-08 12:16:56,607 - INFO - Page 11: 12 titles, 13 prices
+2025-11-08 12:17:00,934 - INFO - Loaded page 12: https://ikcopart.com/shop/?paged=12
+2025-11-08 12:17:07,027 - INFO - Page 12: 12 titles, 13 prices
+2025-11-08 12:17:11,011 - INFO - Loaded page 13: https://ikcopart.com/shop/?paged=13
+2025-11-08 12:17:17,108 - INFO - Page 13: 12 titles, 13 prices
+2025-11-08 12:17:21,214 - INFO - Loaded page 14: https://ikcopart.com/shop/?paged=14
+2025-11-08 12:17:27,310 - INFO - Page 14: 12 titles, 14 prices
+2025-11-08 12:17:31,490 - INFO - Loaded page 15: https://ikcopart.com/shop/?paged=15
+2025-11-08 12:17:37,575 - INFO - Page 15: 12 titles, 13 prices
+2025-11-08 12:17:41,941 - INFO - Loaded page 16: https://ikcopart.com/shop/?paged=16
+2025-11-08 12:17:48,031 - INFO - Page 16: 12 titles, 13 prices
+2025-11-08 12:17:52,228 - INFO - Loaded page 17: https://ikcopart.com/shop/?paged=17
+2025-11-08 12:17:58,335 - INFO - Page 17: 12 titles, 13 prices
+2025-11-08 12:18:02,425 - INFO - Loaded page 18: https://ikcopart.com/shop/?paged=18
+2025-11-08 12:18:08,508 - INFO - Page 18: 12 titles, 13 prices
+2025-11-08 12:18:12,610 - INFO - Loaded page 19: https://ikcopart.com/shop/?paged=19
+2025-11-08 12:18:18,697 - INFO - Page 19: 12 titles, 13 prices
+2025-11-08 12:18:22,891 - INFO - Loaded page 20: https://ikcopart.com/shop/?paged=20
+2025-11-08 12:18:28,986 - INFO - Page 20: 12 titles, 13 prices
+2025-11-08 12:18:33,625 - INFO - Loaded page 21: https://ikcopart.com/shop/?paged=21
+2025-11-08 12:18:39,698 - INFO - Page 21: 12 titles, 13 prices
+2025-11-08 12:18:44,041 - INFO - Loaded page 22: https://ikcopart.com/shop/?paged=22
+2025-11-08 12:18:50,121 - INFO - Page 22: 12 titles, 13 prices
+2025-11-08 12:18:54,576 - INFO - Loaded page 23: https://ikcopart.com/shop/?paged=23
+2025-11-08 12:19:00,652 - INFO - Page 23: 12 titles, 13 prices
+2025-11-08 12:19:04,814 - INFO - Loaded page 24: https://ikcopart.com/shop/?paged=24
+2025-11-08 12:19:10,882 - INFO - Page 24: 12 titles, 13 prices
+2025-11-08 12:19:15,222 - INFO - Loaded page 25: https://ikcopart.com/shop/?paged=25
+2025-11-08 12:19:21,302 - INFO - Page 25: 12 titles, 13 prices
+2025-11-08 12:19:25,405 - INFO - Loaded page 26: https://ikcopart.com/shop/?paged=26
+2025-11-08 12:19:31,485 - INFO - Page 26: 12 titles, 13 prices
+2025-11-08 12:19:35,673 - INFO - Loaded page 27: https://ikcopart.com/shop/?paged=27
+2025-11-08 12:19:41,737 - INFO - Page 27: 12 titles, 13 prices
+2025-11-08 12:19:45,921 - INFO - Loaded page 28: https://ikcopart.com/shop/?paged=28
+2025-11-08 12:19:51,986 - INFO - Page 28: 12 titles, 13 prices
+2025-11-08 12:19:56,094 - INFO - Loaded page 29: https://ikcopart.com/shop/?paged=29
+2025-11-08 12:20:02,166 - INFO - Page 29: 12 titles, 13 prices
+2025-11-08 12:20:06,457 - INFO - Loaded page 30: https://ikcopart.com/shop/?paged=30
+2025-11-08 12:20:12,536 - INFO - Page 30: 12 titles, 13 prices
+2025-11-08 12:20:16,698 - INFO - Loaded page 31: https://ikcopart.com/shop/?paged=31
+2025-11-08 12:20:22,810 - INFO - Page 31: 12 titles, 13 prices
+2025-11-08 12:20:26,897 - INFO - Loaded page 32: https://ikcopart.com/shop/?paged=32
+2025-11-08 12:20:32,975 - INFO - Page 32: 12 titles, 13 prices
+2025-11-08 12:20:37,146 - INFO - Loaded page 33: https://ikcopart.com/shop/?paged=33
+2025-11-08 12:20:43,224 - INFO - Page 33: 12 titles, 13 prices
+2025-11-08 12:20:51,293 - INFO - Loaded page 34: https://ikcopart.com/shop/?paged=34
+2025-11-08 12:20:57,366 - INFO - Page 34: 12 titles, 13 prices
+2025-11-08 12:21:01,768 - INFO - Loaded page 35: https://ikcopart.com/shop/?paged=35
+2025-11-08 12:21:07,834 - INFO - Page 35: 12 titles, 13 prices
+2025-11-08 12:21:12,153 - INFO - Loaded page 36: https://ikcopart.com/shop/?paged=36
+2025-11-08 12:21:18,258 - INFO - Page 36: 12 titles, 13 prices
+2025-11-08 12:21:22,692 - INFO - Loaded page 37: https://ikcopart.com/shop/?paged=37
+2025-11-08 12:21:28,756 - INFO - Page 37: 12 titles, 13 prices
+2025-11-08 12:21:33,086 - INFO - Loaded page 38: https://ikcopart.com/shop/?paged=38
+2025-11-08 12:21:39,164 - INFO - Page 38: 12 titles, 13 prices
+2025-11-08 12:21:43,440 - INFO - Loaded page 39: https://ikcopart.com/shop/?paged=39
+2025-11-08 12:21:49,523 - INFO - Page 39: 12 titles, 13 prices
+2025-11-08 12:21:57,369 - INFO - Loaded page 40: https://ikcopart.com/shop/?paged=40
+2025-11-08 12:22:03,443 - INFO - Page 40: 12 titles, 13 prices
+2025-11-08 12:22:07,625 - INFO - Loaded page 41: https://ikcopart.com/shop/?paged=41
+2025-11-08 12:22:13,691 - INFO - Page 41: 12 titles, 13 prices
+2025-11-08 12:22:17,806 - INFO - Loaded page 42: https://ikcopart.com/shop/?paged=42
+2025-11-08 12:22:23,882 - INFO - Page 42: 12 titles, 14 prices
+2025-11-08 12:22:28,087 - INFO - Loaded page 43: https://ikcopart.com/shop/?paged=43
+2025-11-08 12:22:34,187 - INFO - Page 43: 12 titles, 13 prices
+2025-11-08 12:22:38,417 - INFO - Loaded page 44: https://ikcopart.com/shop/?paged=44
+2025-11-08 12:22:44,508 - INFO - Page 44: 12 titles, 13 prices
+2025-11-08 12:22:48,755 - INFO - Loaded page 45: https://ikcopart.com/shop/?paged=45
+2025-11-08 12:22:54,836 - INFO - Page 45: 12 titles, 13 prices
+2025-11-08 12:23:02,730 - INFO - Loaded page 46: https://ikcopart.com/shop/?paged=46
+2025-11-08 12:23:08,801 - INFO - Page 46: 12 titles, 13 prices
+2025-11-08 12:23:13,307 - INFO - Loaded page 47: https://ikcopart.com/shop/?paged=47
+2025-11-08 12:23:19,395 - INFO - Page 47: 12 titles, 13 prices
+2025-11-08 12:23:23,587 - INFO - Loaded page 48: https://ikcopart.com/shop/?paged=48
+2025-11-08 12:23:29,697 - INFO - Page 48: 12 titles, 13 prices
+2025-11-08 12:23:34,222 - INFO - Loaded page 49: https://ikcopart.com/shop/?paged=49
+2025-11-08 12:23:40,288 - INFO - Page 49: 12 titles, 13 prices
+2025-11-08 12:23:44,719 - INFO - Loaded page 50: https://ikcopart.com/shop/?paged=50
+2025-11-08 12:23:50,786 - INFO - Page 50: 12 titles, 13 prices
+2025-11-08 12:23:55,001 - INFO - Loaded page 51: https://ikcopart.com/shop/?paged=51
+2025-11-08 12:24:01,074 - INFO - Page 51: 12 titles, 14 prices
+2025-11-08 12:24:06,810 - INFO - Loaded page 52: https://ikcopart.com/shop/?paged=52
+2025-11-08 12:24:12,877 - INFO - Page 52: 12 titles, 13 prices
+2025-11-08 12:24:17,139 - INFO - Loaded page 53: https://ikcopart.com/shop/?paged=53
+2025-11-08 12:24:23,216 - INFO - Page 53: 12 titles, 13 prices
+2025-11-08 12:24:27,368 - INFO - Loaded page 54: https://ikcopart.com/shop/?paged=54
+2025-11-08 12:24:33,444 - INFO - Page 54: 12 titles, 13 prices
+2025-11-08 12:24:37,663 - INFO - Loaded page 55: https://ikcopart.com/shop/?paged=55
+2025-11-08 12:24:43,767 - INFO - Page 55: 12 titles, 13 prices
+2025-11-08 12:24:48,126 - INFO - Loaded page 56: https://ikcopart.com/shop/?paged=56
+2025-11-08 12:24:54,199 - INFO - Page 56: 12 titles, 13 prices
+2025-11-08 12:24:58,512 - INFO - Loaded page 57: https://ikcopart.com/shop/?paged=57
+2025-11-08 12:25:05,165 - INFO - Page 57: 12 titles, 13 prices
+2025-11-08 12:25:09,335 - INFO - Loaded page 58: https://ikcopart.com/shop/?paged=58
+2025-11-08 12:25:15,414 - INFO - Page 58: 12 titles, 13 prices
+2025-11-08 12:25:19,601 - INFO - Loaded page 59: https://ikcopart.com/shop/?paged=59
+2025-11-08 12:25:25,679 - INFO - Page 59: 12 titles, 13 prices
+2025-11-08 12:25:29,866 - INFO - Loaded page 60: https://ikcopart.com/shop/?paged=60
+2025-11-08 12:25:35,946 - INFO - Page 60: 12 titles, 13 prices
+2025-11-08 12:25:40,153 - INFO - Loaded page 61: https://ikcopart.com/shop/?paged=61
+2025-11-08 12:25:46,222 - INFO - Page 61: 12 titles, 13 prices
+2025-11-08 12:25:50,452 - INFO - Loaded page 62: https://ikcopart.com/shop/?paged=62
+2025-11-08 12:25:56,537 - INFO - Page 62: 12 titles, 13 prices
+2025-11-08 12:26:00,634 - INFO - Loaded page 63: https://ikcopart.com/shop/?paged=63
+2025-11-08 12:26:06,726 - INFO - Page 63: 12 titles, 13 prices
+2025-11-08 12:26:16,622 - INFO - Loaded page 64: https://ikcopart.com/shop/?paged=64
+2025-11-08 12:26:22,692 - INFO - Page 64: 12 titles, 13 prices
+2025-11-08 12:26:26,924 - INFO - Loaded page 65: https://ikcopart.com/shop/?paged=65
+2025-11-08 12:26:33,013 - INFO - Page 65: 12 titles, 13 prices
+2025-11-08 12:26:37,354 - INFO - Loaded page 66: https://ikcopart.com/shop/?paged=66
+2025-11-08 12:26:43,426 - INFO - Page 66: 12 titles, 13 prices
+2025-11-08 12:26:47,590 - INFO - Loaded page 67: https://ikcopart.com/shop/?paged=67
+2025-11-08 12:26:53,697 - INFO - Page 67: 12 titles, 13 prices
+2025-11-08 12:26:57,807 - INFO - Loaded page 68: https://ikcopart.com/shop/?paged=68
+2025-11-08 12:27:03,885 - INFO - Page 68: 12 titles, 13 prices
+2025-11-08 12:27:08,002 - INFO - Loaded page 69: https://ikcopart.com/shop/?paged=69
+2025-11-08 12:27:14,080 - INFO - Page 69: 12 titles, 13 prices
+2025-11-08 12:27:18,356 - INFO - Loaded page 70: https://ikcopart.com/shop/?paged=70
+2025-11-08 12:27:24,465 - INFO - Page 70: 12 titles, 13 prices
+2025-11-08 12:27:28,815 - INFO - Loaded page 71: https://ikcopart.com/shop/?paged=71
+2025-11-08 12:27:34,916 - INFO - Page 71: 12 titles, 13 prices
+2025-11-08 12:27:39,070 - INFO - Loaded page 72: https://ikcopart.com/shop/?paged=72
+2025-11-08 12:27:45,165 - INFO - Page 72: 12 titles, 13 prices
+2025-11-08 12:27:49,419 - INFO - Loaded page 73: https://ikcopart.com/shop/?paged=73
+2025-11-08 12:27:55,512 - INFO - Page 73: 12 titles, 13 prices
+2025-11-08 12:27:59,851 - INFO - Loaded page 74: https://ikcopart.com/shop/?paged=74
+2025-11-08 12:28:05,928 - INFO - Page 74: 12 titles, 13 prices
+2025-11-08 12:28:10,183 - INFO - Loaded page 75: https://ikcopart.com/shop/?paged=75
+2025-11-08 12:28:16,263 - INFO - Page 75: 12 titles, 13 prices
+2025-11-08 12:28:21,575 - INFO - Loaded page 76: https://ikcopart.com/shop/?paged=76
+2025-11-08 12:28:27,656 - INFO - Page 76: 12 titles, 13 prices
+2025-11-08 12:28:31,892 - INFO - Loaded page 77: https://ikcopart.com/shop/?paged=77
+2025-11-08 12:28:37,957 - INFO - Page 77: 12 titles, 13 prices
+2025-11-08 12:28:42,301 - INFO - Loaded page 78: https://ikcopart.com/shop/?paged=78
+2025-11-08 12:28:48,388 - INFO - Page 78: 12 titles, 13 prices
+2025-11-08 12:28:52,585 - INFO - Loaded page 79: https://ikcopart.com/shop/?paged=79
+2025-11-08 12:28:58,673 - INFO - Page 79: 12 titles, 13 prices
+2025-11-08 12:29:02,921 - INFO - Loaded page 80: https://ikcopart.com/shop/?paged=80
+2025-11-08 12:29:09,036 - INFO - Page 80: 12 titles, 13 prices
+2025-11-08 12:29:13,150 - INFO - Loaded page 81: https://ikcopart.com/shop/?paged=81
+2025-11-08 12:29:19,243 - INFO - Page 81: 12 titles, 13 prices
+2025-11-08 12:29:28,233 - INFO - Loaded page 82: https://ikcopart.com/shop/?paged=82
+2025-11-08 12:29:34,319 - INFO - Page 82: 12 titles, 13 prices
+2025-11-08 12:29:38,540 - INFO - Loaded page 83: https://ikcopart.com/shop/?paged=83
+2025-11-08 12:29:44,627 - INFO - Page 83: 12 titles, 13 prices
+2025-11-08 12:29:48,777 - INFO - Loaded page 84: https://ikcopart.com/shop/?paged=84
+2025-11-08 12:29:54,887 - INFO - Page 84: 12 titles, 13 prices
+2025-11-08 12:29:59,118 - INFO - Loaded page 85: https://ikcopart.com/shop/?paged=85
+2025-11-08 12:30:05,211 - INFO - Page 85: 12 titles, 13 prices
+2025-11-08 12:30:09,396 - INFO - Loaded page 86: https://ikcopart.com/shop/?paged=86
+2025-11-08 12:30:15,472 - INFO - Page 86: 5 titles, 6 prices
+2025-11-08 12:30:16,629 - INFO - Saved 1025 rows to output\ikcopart_2025-11-08.csv
+2025-11-08 12:30:16,630 - INFO - Finished � 1025 parts saved
+2025-11-08 14:00:48,365 - INFO - Loaded Isaco main page
+2025-11-08 14:00:54,610 - WARNING - No data to save.
+2025-11-08 14:00:54,610 - INFO - ISACO scraper finished in 26.99s (0 items)
+2025-11-08 14:05:24,691 - INFO - Navigating to https://www.isaco.ir/قطعات
+2025-11-08 14:07:31,775 - INFO - Navigating to https://www.isaco.ir/قطعات
+2025-11-08 14:07:39,256 - INFO - Cloudflare challenge passed (or not present)
+2025-11-08 14:07:55,413 - ERROR - Grid not found – possible block
+2025-11-08 14:07:55,504 - WARNING - No data to save.
+2025-11-08 14:07:55,505 - INFO - ISACO scraper finished in 24.60s (0 items)
+2025-11-08 14:56:06,499 - INFO - Navigating to https://www.isaco.ir/قطعات
+2025-11-08 14:57:12,649 - ERROR - Critical error: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("div[data-testid=\"part-card\"]") to be visible
+Traceback (most recent call last):
+  File "D:\QA\vehicle_parts_scraper\scrapers\isaco_scraper.py", line 136, in scrape
+    links = await get_product_links(page)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\QA\vehicle_parts_scraper\scrapers\isaco_scraper.py", line 51, in get_product_links
+    if not await wait_for_products(page):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\QA\vehicle_parts_scraper\scrapers\isaco_scraper.py", line 26, in wait_for_products
+    await page.wait_for_selector(PRODUCT_CARD, timeout=30000)
+  File "C:\Users\Master Tech\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8181, in wait_for_selector
+    await self._impl_obj.wait_for_selector(
+        selector=selector, timeout=timeout, state=state, strict=strict
+    )
+  File "C:\Users\Master Tech\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 423, in wait_for_selector
+    return await self._main_frame.wait_for_selector(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Master Tech\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 369, in wait_for_selector
+    await self._channel.send(
+        "waitForSelector", self._timeout, locals_to_params(locals())
+    )
+  File "C:\Users\Master Tech\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Master Tech\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 558, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("div[data-testid=\"part-card\"]") to be visible
+
+2025-11-08 14:57:44,998 - INFO - Navigating to https://www.isaco.ir/قطعات
+2025-11-08 14:58:22,714 - ERROR - No product cards found after 30s
+2025-11-08 14:58:23,135 - ERROR - No cards → saved debug_no_cards.png
+2025-11-08 14:58:23,690 - WARNING - No data to save.
+2025-11-08 14:58:23,690 - INFO - ISACO scraper finished in 40.11s (0 items)
+2025-11-08 15:00:26,092 - INFO - Navigating to https://www.isaco.ir/قطعات
+2025-11-08 15:01:06,644 - ERROR - No product cards found after 30s
+2025-11-08 15:01:06,836 - ERROR - No cards → saved debug_no_cards.png
+2025-11-08 15:01:06,949 - WARNING - No data to save.
+2025-11-08 15:01:06,949 - INFO - ISACO scraper finished in 42.15s (0 items)
+2025-11-08 15:25:09,103 - INFO - Navigating to https://www.isaco.ir/قطعات
+2025-11-08 15:26:20,730 - ERROR - No product cards found after 30s
+2025-11-08 15:26:21,721 - ERROR - No cards → saved debug_no_cards.png
+2025-11-08 15:26:22,731 - WARNING - No data to save.
+2025-11-08 15:26:22,731 - INFO - ISACO scraper finished in 77.40s (0 items)
+2025-11-08 16:01:38,488 - INFO - Launching Firefox with clean profile...
+2025-11-08 16:01:42,162 - INFO - Navigating to https://www.isaco.ir/قطعات
+2025-11-08 16:02:43,074 - ERROR - No product links found → saved debug_no_links.png
+2025-11-08 16:02:43,074 - ERROR - No links collected. Check debug_main_page.png
+2025-11-08 16:04:34,471 - INFO - Launching Firefox with clean profile...
+2025-11-08 16:04:36,136 - INFO - Navigating to https://www.isaco.ir/قطعات
+2025-11-08 16:05:37,993 - ERROR - No product links found → saved debug_no_links.png
+2025-11-08 16:05:37,993 - ERROR - No links collected. Check debug_main_page.png
+2025-11-08 16:20:08,519 - INFO - Killed Firefox
+2025-11-08 16:20:08,526 - INFO - Killed Firefox
+2025-11-08 16:20:08,531 - INFO - Killed Firefox
+2025-11-08 16:20:08,535 - INFO - Killed Firefox
+2025-11-08 16:20:08,538 - INFO - Killed Firefox
+2025-11-08 16:20:08,542 - INFO - Killed Firefox
+2025-11-08 16:20:08,546 - INFO - Killed Firefox
+2025-11-08 16:20:08,548 - INFO - Killed Firefox
+2025-11-08 16:20:08,551 - INFO - Killed Firefox
+2025-11-08 16:20:08,555 - INFO - Killed Firefox
+2025-11-08 16:20:08,563 - INFO - Killed Firefox
+2025-11-08 16:20:08,567 - INFO - Launching Firefox...
+2025-11-08 16:20:10,185 - INFO - Going to https://www.isaco.ir/قطعات
+2025-11-08 16:21:45,671 - ERROR - No product links → saved debug_no_links.png
+2025-11-08 16:21:45,673 - ERROR - No links. Check debug_main_page.png
+2025-11-08 16:23:44,108 - INFO - Launching Firefox...
+2025-11-08 16:26:16,425 - ERROR - Launch failed: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Users\Master Tech\AppData\Local\ms-playwright\firefox-1490\firefox\firefox.exe -no-remote -wait-for-browser -foreground -profile C:\Users\Master Tech\AppData\Roaming\Mozilla\Firefox\Profiles\3tgn3gyn.default-release -juggler-pipe --no-sandbox --disable-gpu --disable-dev-shm-usage about:blank
+<launched> pid=3504
+[pid=3504][err] [ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+[pid=3504][out] Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: shader-cache: Shader disk cache is not supported (t=2.49408) [GFX1-]: shader-cache: Shader disk cache is not supported
+[pid=3504][err] [ERROR osclientcerts] ThreadId(1) module state expected to be set, but it is not
+[pid=3504] <process did exit: exitCode=0, signal=null>
+[pid=3504] starting temporary directories cleanup
+Call log:
+  - <launching> C:\Users\Master Tech\AppData\Local\ms-playwright\firefox-1490\firefox\firefox.exe -no-remote -wait-for-browser -foreground -profile C:\Users\Master Tech\AppData\Roaming\Mozilla\Firefox\Profiles\3tgn3gyn.default-release -juggler-pipe --no-sandbox --disable-gpu --disable-dev-shm-usage about:blank
+  - <launched> pid=3504
+  - [pid=3504][err] [ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+  - [pid=3504][out] Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: shader-cache: Shader disk cache is not supported (t=2.49408) [GFX1-]: shader-cache: Shader disk cache is not supported
+  - [pid=3504][err] [ERROR osclientcerts] ThreadId(1) module state expected to be set, but it is not
+  - [pid=3504] <process did exit: exitCode=0, signal=null>
+  - [pid=3504] starting temporary directories cleanup
+  - [pid=3504] <gracefully close start>
+  - [pid=3504] finished temporary directories cleanup
+  - [pid=3504] <gracefully close end>
+
+2025-11-08 16:37:19,513 - INFO - Killed Firefox
+2025-11-08 16:37:19,521 - INFO - Killed Firefox
+2025-11-08 16:37:19,523 - INFO - Killed Firefox
+2025-11-08 16:37:19,529 - INFO - Killed Firefox
+2025-11-08 16:37:19,535 - INFO - Killed Firefox
+2025-11-08 16:37:19,537 - INFO - Killed Firefox
+2025-11-08 16:37:19,538 - INFO - Killed Firefox
+2025-11-08 16:37:19,540 - INFO - Killed Firefox
+2025-11-08 16:37:19,542 - INFO - Killed Firefox
+2025-11-08 16:37:19,550 - INFO - Killed Firefox
+2025-11-08 16:37:19,552 - INFO - Killed Firefox
+2025-11-08 16:37:19,553 - INFO - Launching Firefox...
+2025-11-08 16:37:22,871 - INFO - Going to https://www.isaco.ir/قطعات
+2025-11-08 16:38:23,407 - ERROR - Error: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "D:\QA\vehicle_parts_scraper\scrapers\isaco_scraper.py", line 158, in scrape
+    await page.goto(ISACO_URL, wait_until="domcontentloaded", timeout=TIMEOUT)
+  File "C:\Users\Master Tech\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\Master Tech\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 556, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Master Tech\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\Master Tech\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Master Tech\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 558, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA", waiting until "domcontentloaded"
+
+2025-11-08 16:38:26,776 - WARNING - No data saved
+2025-11-08 16:38:26,777 - INFO - ISACO done in 67.93s (0 items)
+2025-11-08 17:29:10,278 - INFO - Opening https://www.isaco.ir/قطعات
+2025-11-08 17:30:13,137 - INFO - Found 100 product cards
+2025-11-08 17:30:13,155 - ERROR - Error on card 1: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,169 - ERROR - Error on card 2: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,180 - ERROR - Error on card 3: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,191 - ERROR - Error on card 4: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,203 - ERROR - Error on card 5: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,215 - ERROR - Error on card 6: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,224 - ERROR - Error on card 7: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,235 - ERROR - Error on card 8: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,245 - ERROR - Error on card 9: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,260 - ERROR - Error on card 10: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,272 - ERROR - Error on card 11: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,283 - ERROR - Error on card 12: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,293 - ERROR - Error on card 13: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,304 - ERROR - Error on card 14: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,315 - ERROR - Error on card 15: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,325 - ERROR - Error on card 16: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,336 - ERROR - Error on card 17: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,347 - ERROR - Error on card 18: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,357 - ERROR - Error on card 19: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,368 - ERROR - Error on card 20: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,381 - ERROR - Error on card 21: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,392 - ERROR - Error on card 22: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,404 - ERROR - Error on card 23: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,415 - ERROR - Error on card 24: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,425 - ERROR - Error on card 25: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,435 - ERROR - Error on card 26: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,444 - ERROR - Error on card 27: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,455 - ERROR - Error on card 28: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,466 - ERROR - Error on card 29: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,476 - ERROR - Error on card 30: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,486 - ERROR - Error on card 31: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,496 - ERROR - Error on card 32: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,507 - ERROR - Error on card 33: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,518 - ERROR - Error on card 34: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,531 - ERROR - Error on card 35: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,541 - ERROR - Error on card 36: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,554 - ERROR - Error on card 37: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,567 - ERROR - Error on card 38: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,582 - ERROR - Error on card 39: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,592 - ERROR - Error on card 40: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,604 - ERROR - Error on card 41: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,616 - ERROR - Error on card 42: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,627 - ERROR - Error on card 43: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,639 - ERROR - Error on card 44: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,650 - ERROR - Error on card 45: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,661 - ERROR - Error on card 46: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,673 - ERROR - Error on card 47: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,685 - ERROR - Error on card 48: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,694 - ERROR - Error on card 49: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,705 - ERROR - Error on card 50: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,716 - ERROR - Error on card 51: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,725 - ERROR - Error on card 52: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,736 - ERROR - Error on card 53: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,745 - ERROR - Error on card 54: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,755 - ERROR - Error on card 55: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,766 - ERROR - Error on card 56: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,776 - ERROR - Error on card 57: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,786 - ERROR - Error on card 58: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,794 - ERROR - Error on card 59: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,804 - ERROR - Error on card 60: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,814 - ERROR - Error on card 61: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,824 - ERROR - Error on card 62: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,835 - ERROR - Error on card 63: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,844 - ERROR - Error on card 64: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,855 - ERROR - Error on card 65: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,866 - ERROR - Error on card 66: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,876 - ERROR - Error on card 67: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,886 - ERROR - Error on card 68: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,896 - ERROR - Error on card 69: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,907 - ERROR - Error on card 70: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,917 - ERROR - Error on card 71: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,926 - ERROR - Error on card 72: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,938 - ERROR - Error on card 73: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,949 - ERROR - Error on card 74: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,959 - ERROR - Error on card 75: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,970 - ERROR - Error on card 76: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,982 - ERROR - Error on card 77: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:13,991 - ERROR - Error on card 78: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,002 - ERROR - Error on card 79: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,010 - ERROR - Error on card 80: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,021 - ERROR - Error on card 81: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,031 - ERROR - Error on card 82: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,039 - ERROR - Error on card 83: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,049 - ERROR - Error on card 84: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,060 - ERROR - Error on card 85: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,071 - ERROR - Error on card 86: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,082 - ERROR - Error on card 87: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,091 - ERROR - Error on card 88: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,102 - ERROR - Error on card 89: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,111 - ERROR - Error on card 90: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,122 - ERROR - Error on card 91: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,132 - ERROR - Error on card 92: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,142 - ERROR - Error on card 93: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,153 - ERROR - Error on card 94: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,161 - ERROR - Error on card 95: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,171 - ERROR - Error on card 96: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,181 - ERROR - Error on card 97: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,190 - ERROR - Error on card 98: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,199 - ERROR - Error on card 99: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,207 - ERROR - Error on card 100: 'Page' object has no attribute 'urljoin'
+2025-11-08 17:30:14,207 - WARNING - NO DATA COLLECTED
+2025-11-08 17:34:07,280 - INFO - Opening https://www.isaco.ir/قطعات
+2025-11-08 17:34:19,357 - INFO - Found 100 product cards
+2025-11-08 17:34:19,376 - INFO - [1/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/06703/%D8%AF%DB%8C%D8%B3%DA%A9-%DA%A9%D9%84%D8%A7%DA%86-%D9%85%D8%B1%DA%A9%D8%A8
+2025-11-08 17:34:55,441 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:35:25,450 - ERROR - Error on card 1: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:35:25,471 - INFO - [2/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/13302/%D9%82%D8%B7%D8%B9%D9%87-%D8%B3%DB%8C%D9%86%DB%8C-%D9%81%D9%86-%D8%B1%D8%A7%D8%AF%DB%8C%D8%A7%D8%AA%D9%88%D8%B1
+2025-11-08 17:36:27,013 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:36:57,017 - ERROR - Error on card 2: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:36:57,055 - INFO - [3/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/15801/%DA%AF%DB%8C%D8%AC--%D8%AF%D8%B1%D8%AC%D9%87-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D8%A7%DA%A9-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D8%A8%D8%A7-%D9%BE%D9%85%D9%BE
+2025-11-08 17:37:02,507 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:37:32,516 - ERROR - Error on card 3: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:37:32,558 - INFO - [4/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/15602/%DA%AF%D8%B1%D8%AF%DA%AF%DB%8C%D8%B1-%D8%A7%DA%A9%D8%B3%D9%84-%D9%88%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84
+2025-11-08 17:38:34,255 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:39:04,263 - ERROR - Error on card 4: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:39:04,278 - INFO - [5/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/11607/%D8%BA%D9%84%D8%AA%DA%A9-%D9%87%D8%B1%D8%B2%DA%AF%D8%B1%D8%AF
+2025-11-08 17:39:24,305 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:39:54,314 - ERROR - Error on card 5: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:39:54,347 - INFO - [6/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/09101/%D8%B3%D8%B1%D8%B3%DB%8C%D9%84%D9%86%D8%AF%D8%B1%D9%85%D9%88%D8%AA%D9%88%D8%B1XU52C
+2025-11-08 17:40:56,176 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:41:26,181 - ERROR - Error on card 6: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:41:26,195 - INFO - [7/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/09903/%D8%B3%DB%8C%D9%84%D9%86%D8%AF%D8%B1-%D9%BE%D9%85%D9%BE-%D9%81%D8%B1%D9%85%D8%A7%D9%86
+2025-11-08 17:41:30,806 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:42:00,812 - ERROR - Error on card 7: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:42:00,838 - INFO - [8/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/15301/%DA%A9%D9%88%DB%8C%D9%84
+2025-11-08 17:42:36,703 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:43:06,716 - ERROR - Error on card 8: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:43:06,732 - INFO - [9/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/03607/%D9%BE%D9%85%D9%BE-%D9%87%DB%8C%D8%AF%D8%B1%D9%88%D9%84%DB%8C%DA%A9-%D9%81%D8%B1%D9%85%D8%A7%D9%86
+2025-11-08 17:43:10,940 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:43:40,946 - ERROR - Error on card 9: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:43:40,961 - INFO - [10/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/02709/%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF-%D9%BE%D9%84%D9%88%D8%B3
+2025-11-08 17:44:17,060 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:44:47,080 - ERROR - Error on card 10: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:44:47,183 - INFO - [11/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/14802/%DA%A9%D9%85%D9%BE%D8%B1%D8%B3%D9%88%D8%B1-%DA%A9%D9%88%D9%84%D8%B1R134
+2025-11-08 17:45:20,741 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:45:50,750 - ERROR - Error on card 11: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:45:50,763 - INFO - [12/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/17005/%D8%AF%D8%B1%D8%A8-%D8%B1%D8%A7%D8%AF%DB%8C%D8%A7%D8%AA%D9%88%D8%B1
+2025-11-08 17:45:57,290 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:46:27,309 - ERROR - Error on card 12: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:46:27,320 - INFO - [13/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/10801/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A8%D8%AE%D8%A7%D8%B1%D8%B1%D9%88%D8%BA%D9%86-%D9%88-%D8%A8%D9%86%D8%B2%DB%8C%D9%86
+2025-11-08 17:46:33,570 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:47:03,579 - ERROR - Error on card 13: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:47:03,594 - INFO - [14/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/08902/%D8%B3%D9%BE%D8%B1%D8%B9%D9%82%D8%A8
+2025-11-08 17:47:39,975 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:48:09,986 - ERROR - Error on card 14: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:48:10,002 - INFO - [15/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/13601/%D9%82%D9%81%D9%84-%D8%AF%D8%B1%D8%A8%D9%87%D8%A7%DB%8C-%D8%AC%D8%A7%D9%86%D8%A8%DB%8C
+2025-11-08 17:48:46,580 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:49:16,590 - ERROR - Error on card 15: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:49:16,616 - INFO - [16/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/09605/%D8%B3%D9%88%D9%BE%D8%A7%D9%BE-%D8%AE%D8%B1%D9%88%D8%AC%DB%8C-%D8%AF%D9%88%D8%AF-
+2025-11-08 17:50:18,355 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:50:48,370 - ERROR - Error on card 16: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:50:48,398 - INFO - [17/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/18608/%D9%88%D8%A7%D8%B4%D8%B1-%D9%86%D8%B3%D9%88%D8%B2-%D8%A7%DA%AF%D8%B2%D9%88%D8%B2-
+2025-11-08 17:50:52,818 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:51:22,838 - ERROR - Error on card 17: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:51:22,859 - INFO - [18/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/17014/%D8%AF%D8%B1%D8%A8-%D9%85%D8%AE%D8%B2%D9%86-%D8%A2%D8%A8-%D8%B1%D8%A7%D8%AF%DB%8C%D8%A7%D8%AA%D9%88%D8%B1
+2025-11-08 17:52:24,525 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:52:54,529 - ERROR - Error on card 18: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:52:54,543 - INFO - [19/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/02004/%D8%A8%D8%A7%D8%B2%D9%88%D8%A6%DB%8C-%DA%86%D8%B1%D8%AE-%D8%AC%D9%84%D9%88
+2025-11-08 17:53:06,081 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:53:36,103 - ERROR - Error on card 19: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:53:36,132 - INFO - [20/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/13001/%D9%82%D8%B7%D8%B9%D9%87-%D8%B1%DA%A9%D8%A7%D8%A8-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C
+2025-11-08 17:54:12,351 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:54:42,361 - ERROR - Error on card 20: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:54:42,372 - INFO - [21/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/06135/%D8%AF%D8%B1%D9%BE%D9%88%D8%B4-%D9%81%DB%8C%D9%84%D8%AA%D8%B1
+2025-11-08 17:55:18,696 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:55:48,705 - ERROR - Error on card 21: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:55:48,724 - INFO - [22/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/05403/%DA%86%D8%B1%D8%A7%D8%BA-%D8%B9%D9%82%D8%A8-%DA%86%D9%BE
+2025-11-08 17:56:24,938 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:56:54,946 - ERROR - Error on card 22: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:56:54,967 - INFO - [23/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/09604/%D8%B3%D9%88%D9%BE%D8%A7%D9%BE-%D9%88%D8%B1%D9%88%D8%AF%DB%8C-%D9%87%D9%88%D8%A7+%D8%A8%D9%86%D8%B2%DB%8C%D9%86-
+2025-11-08 17:57:57,056 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:58:27,085 - ERROR - Error on card 23: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:58:27,115 - INFO - [24/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/10601/%D8%B4%DB%8C%D8%B1-%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C
+2025-11-08 17:59:28,476 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 17:59:58,491 - ERROR - Error on card 24: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 17:59:58,518 - INFO - [25/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/02706/%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF-%D8%B1%D9%88%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF-%DA%AF%DB%8C%D8%B1%D8%A8%DA%A9%D8%B3
+2025-11-08 18:00:04,469 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:00:34,477 - ERROR - Error on card 25: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:00:34,506 - INFO - [26/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/02702/%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF-%D8%B1%D9%88%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF-%DA%86%D8%B1%D8%AE-%D8%AC%D9%84%D9%88
+2025-11-08 18:00:46,467 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:01:16,482 - ERROR - Error on card 26: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:01:16,508 - INFO - [27/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/09109/%D8%B3%D8%B1%D8%B3%DB%8C%D9%84%D9%86%D8%AF%D8%B1-%D9%85%D9%88%D8%AA%D9%88%D8%B1-TU5JP4
+2025-11-08 18:01:53,082 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:02:23,107 - ERROR - Error on card 27: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:02:23,188 - INFO - [28/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/01713/%DA%A9%D8%A7%D8%B3%D9%87-%D9%86%D9%85%D8%AF-%D8%AF%DB%8C%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D9%84
+2025-11-08 18:02:31,019 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:03:01,023 - ERROR - Error on card 28: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:03:01,049 - INFO - [29/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/14002/%DA%A9%D8%A7%D8%B1%D8%AA%D9%84-%D8%B1%D9%88%D8%BA%D9%86-%D8%A3%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C
+2025-11-08 18:03:05,731 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:03:35,742 - ERROR - Error on card 29: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:03:35,769 - INFO - [30/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/01707/%DA%A9%D8%A7%D8%B3%D9%87-%D9%86%D9%85%D8%AF-%D8%B3%D9%88%D9%BE%D8%A7%D9%BE
+2025-11-08 18:03:42,297 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:04:12,309 - ERROR - Error on card 30: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:04:12,339 - INFO - [31/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/18102/%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%D9%87-%D8%AF%D8%B3%D8%AA%D9%87-%D9%85%D9%88%D8%AA%D9%88%D8%B1
+2025-11-08 18:04:18,007 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:04:48,028 - ERROR - Error on card 31: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:04:48,057 - INFO - [32/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/15001/%DA%A9%D9%85%DA%A9-%D9%81%D9%86%D8%B1-%D8%AC%D9%84%D9%88
+2025-11-08 18:05:50,670 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:06:20,691 - ERROR - Error on card 32: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:06:20,716 - INFO - [33/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/11401/%D8%B9%D8%A7%DB%8C%D9%82-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C
+2025-11-08 18:06:25,611 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:06:55,640 - ERROR - Error on card 33: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:06:55,665 - INFO - [34/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/07701/%D8%B1%D9%88%D8%BA%D9%86-%D9%BE%D9%85%D9%BE-%D9%87%DB%8C%D8%AF%D8%B1%D9%88%D9%84%DB%8C%DA%A9-%D9%81%D8%B1%D9%85%D8%A7%D9%86
+2025-11-08 18:07:14,394 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:07:44,423 - ERROR - Error on card 34: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:07:44,522 - INFO - [35/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/18606/%D9%88%D8%A7%D8%B4%D8%B1-%D8%B3%D8%B1%D8%B3%DB%8C%D9%84%D9%86%D8%AF%D8%B1
+2025-11-08 18:08:20,580 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:08:50,588 - ERROR - Error on card 35: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:08:50,637 - INFO - [36/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/10802/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C
+2025-11-08 18:09:52,673 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:10:22,687 - ERROR - Error on card 36: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:10:22,721 - INFO - [37/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/15604/%DA%AF%D8%B1%D8%AF%DA%AF%DB%8C%D8%B1-%D9%81%D8%B1%D9%85%D8%A7%D9%86
+2025-11-08 18:10:28,988 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:10:59,020 - ERROR - Error on card 37: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:10:59,056 - INFO - [38/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/16105/%D9%84%D8%A7%D9%85%D9%BE-%D9%87%D8%A7%D9%84%D9%88%DA%98%D9%86
+2025-11-08 18:11:02,780 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:11:32,794 - ERROR - Error on card 38: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:11:32,824 - INFO - [39/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/18106/%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%D9%87-%D9%85%DB%8C%D9%84-%D9%85%D9%88%D8%AC%DA%AF%DB%8C%D8%B1
+2025-11-08 18:11:41,357 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:12:11,374 - ERROR - Error on card 39: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:12:11,402 - INFO - [40/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/10203/%D8%B4%D8%A7%D9%81%D8%AA-%D9%81%D8%B1%D9%85%D8%A7%D9%86
+2025-11-08 18:12:16,018 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:12:46,030 - ERROR - Error on card 40: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:12:46,068 - INFO - [41/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/03902/%D9%BE%D9%88%D9%84%DB%8C-%D9%85%DB%8C%D9%84-%D9%84%D9%86%DA%AF
+2025-11-08 18:12:51,851 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:13:21,881 - ERROR - Error on card 41: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:13:21,934 - INFO - [42/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/05701/%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D8%A7%D8%AE%D9%87-%DA%AF%D8%A7%D8%B1%D8%AF%D8%A7%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D9%82%D9%81%D9%84
+2025-11-08 18:13:41,092 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:14:11,099 - ERROR - Error on card 42: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:14:11,118 - INFO - [43/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/18801/%DB%8C%D8%A7%D8%AA%D8%A7%D9%82%D8%A7%D9%86-%D9%85%D8%AA%D8%AD%D8%B1%DA%A9-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF
+2025-11-08 18:14:17,557 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:14:47,571 - ERROR - Error on card 43: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:14:47,613 - INFO - [44/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/04303/%D8%AA%D8%B1%D9%85%D9%88%D8%B3%D8%AA%D8%A7%D8%AA-%D8%A8%D8%A7%D8%AF%D9%85%D8%A7%DB%8C-%D8%A7%D8%B3%D9%85%DB%8C-%D8%A8%D8%A7%D8%B2%D8%B4%D8%AF%D9%86:89%D8%AF%D8%B1%D8%AC%D9%87
+2025-11-08 18:14:51,031 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:15:21,048 - ERROR - Error on card 44: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:15:21,071 - INFO - [45/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/09205/%D8%B3%D9%86%D8%B3%D9%88%D8%B1-%D9%81%D8%B4%D8%A7%D8%B1%D9%87%D9%88%D8%A7
+2025-11-08 18:15:27,097 - INFO - Clicked: .MuiButton-containedPrimary
+2025-11-08 18:15:57,115 - ERROR - Error on card 45: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("tr.PartsDetails_rowOfTable__vm_Zw") to be visible
+
+2025-11-08 18:15:57,132 - INFO - [46/100] Opening: https://www.isaco.ir/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA/16107/%D9%84%D8%A7%D9%85%D9%BE%D9%87%D8%A7%DB%8C-%D9%85%D8%B9%D9%85%D9%88%D9%84%DB%8C
+2025-11-08 18:16:00,865 - ERROR - Error on card 46: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator(".MuiButton-containedPrimary") to be visible
+
+2025-11-08 18:16:01,164 - ERROR - Error on card 47: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,170 - ERROR - Error on card 48: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,173 - ERROR - Error on card 49: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,175 - ERROR - Error on card 50: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,177 - ERROR - Error on card 51: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,181 - ERROR - Error on card 52: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,184 - ERROR - Error on card 53: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,187 - ERROR - Error on card 54: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,190 - ERROR - Error on card 55: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,197 - ERROR - Error on card 56: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,204 - ERROR - Error on card 57: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,212 - ERROR - Error on card 58: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,216 - ERROR - Error on card 59: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,220 - ERROR - Error on card 60: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,231 - ERROR - Error on card 61: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,246 - ERROR - Error on card 62: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,252 - ERROR - Error on card 63: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,256 - ERROR - Error on card 64: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,259 - ERROR - Error on card 65: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,264 - ERROR - Error on card 66: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,269 - ERROR - Error on card 67: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,276 - ERROR - Error on card 68: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,281 - ERROR - Error on card 69: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,288 - ERROR - Error on card 70: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,291 - ERROR - Error on card 71: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,294 - ERROR - Error on card 72: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,299 - ERROR - Error on card 73: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,306 - ERROR - Error on card 74: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,309 - ERROR - Error on card 75: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,313 - ERROR - Error on card 76: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,320 - ERROR - Error on card 77: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,322 - ERROR - Error on card 78: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,325 - ERROR - Error on card 79: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,328 - ERROR - Error on card 80: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,334 - ERROR - Error on card 81: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,337 - ERROR - Error on card 82: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,340 - ERROR - Error on card 83: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,343 - ERROR - Error on card 84: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,346 - ERROR - Error on card 85: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,352 - ERROR - Error on card 86: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,354 - ERROR - Error on card 87: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,356 - ERROR - Error on card 88: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,359 - ERROR - Error on card 89: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,361 - ERROR - Error on card 90: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,366 - ERROR - Error on card 91: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,369 - ERROR - Error on card 92: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,371 - ERROR - Error on card 93: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,373 - ERROR - Error on card 94: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,376 - ERROR - Error on card 95: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,378 - ERROR - Error on card 96: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,383 - ERROR - Error on card 97: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,386 - ERROR - Error on card 98: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,388 - ERROR - Error on card 99: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,392 - ERROR - Error on card 100: ElementHandle.query_selector: Target page, context or browser has been closed
+2025-11-08 18:16:01,394 - WARNING - NO DATA
+2025-11-09 17:13:46,125 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-09 17:28:51,766 - INFO - Trying browser: chromium
+2025-11-09 17:30:22,559 - WARNING - chromium failed (timeout/Cloudflare) — switching
+2025-11-09 17:30:22,817 - INFO - Trying browser: firefox
+2025-11-09 17:31:56,743 - WARNING - firefox failed (timeout/Cloudflare) — switching
+2025-11-09 17:31:57,964 - ERROR - All browsers failed — check internet or site status
+2025-11-09 17:31:57,968 - ERROR - Failed to launch browser — exiting
+2025-11-09 17:33:19,154 - INFO - Trying browser: chromium
+2025-11-09 17:34:49,929 - WARNING - chromium failed (timeout/Cloudflare) — switching
+2025-11-09 17:34:50,342 - INFO - Trying browser: firefox
+2025-11-09 17:36:24,270 - WARNING - firefox failed (timeout/Cloudflare) — switching
+2025-11-09 17:36:26,172 - ERROR - All browsers failed — check internet or site status
+2025-11-09 17:36:26,172 - ERROR - Failed to launch browser — exiting
