@@ -777,3 +777,17 @@ Call log:
 2025-11-09 17:36:24,270 - WARNING - firefox failed (timeout/Cloudflare) — switching
 2025-11-09 17:36:26,172 - ERROR - All browsers failed — check internet or site status
 2025-11-09 17:36:26,172 - ERROR - Failed to launch browser — exiting
+2025-11-09 17:52:26,772 - INFO - Trying browser: chromium with STEALTH
+2025-11-09 17:52:27,596 - WARNING - chromium failed: 'module' object is not callable — switching browser
+2025-11-09 17:52:27,899 - INFO - Trying browser: firefox with STEALTH
+2025-11-09 18:01:16,871 - WARNING - firefox failed: BrowserContext.new_page: Target page, context or browser has been closed — switching browser
+2025-11-09 18:01:16,876 - ERROR - ALL BROWSERS FAILED — Site may require proxy or CAPTCHA solve
+2025-11-09 18:01:16,876 - ERROR - Failed to launch browser — exiting
+2025-11-09 18:11:49,983 - INFO - Trying browser: chromium with MANUAL STEALTH
+2025-11-09 18:11:54,375 - INFO - Testing https://stopyadak.com/Products/NewProducts with chromium + MANUAL STEALTH...
+2025-11-09 18:11:57,891 - INFO - SUCCESS with chromium + MANUAL STEALTH
+2025-11-09 18:11:57,891 - INFO - Navigating to: https://stopyadak.com/Products/NewProducts
+2025-11-09 18:13:27,911 - ERROR - Timeout on attempt 1 — retrying...
+2025-11-09 18:14:47,813 - ERROR - Timeout on attempt 2 — retrying...
+2025-11-09 18:15:25,479 - ERROR - Timeout on attempt 3 — retrying...
+2025-11-09 18:15:30,486 - ERROR - Failed to load page after 3 attempts — check internet or site status

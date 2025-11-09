@@ -3,4 +3,3 @@ pandas>=2.2.0
 apscheduler>=3.11.1
 psutil>=5.9.0
 requests>=2.31.0  # For Telegram (optional)
-playwright-stealth>=1.0.6
