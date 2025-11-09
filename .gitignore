@@ -10,9 +10,9 @@ cache/
 output/
 backups/
 logs/
-__pycache__/
-*.pyc
 
 # Python
+__pycache__/
+*.pyc
 venv/
 .env
